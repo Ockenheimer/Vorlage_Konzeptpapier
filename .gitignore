@@ -19,6 +19,10 @@ res/Unterschrift.jpg
 *.lot
 *.lol
 *.locode
+*.bcf
+*.dvi
+*.run.xml
+*.xml
 
 # Logs and databases #
 ######################
