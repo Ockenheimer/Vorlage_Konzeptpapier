@@ -23,6 +23,8 @@ res/Unterschrift.jpg
 *.dvi
 *.run.xml
 *.xml
+*.fdb_latexmk
+*.fls
 
 # Logs and databases #
 ######################
